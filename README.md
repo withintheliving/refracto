@@ -36,7 +36,15 @@
 
 ## 🔗 Links
 
-- 🌐 **Live demo** (coming soon)  
+---
+
+## 🎥 Live Demo
+
+Want to see Refracto in action?  
+▶️ [Click here to watch the demo video](https://drive.google.com/file/d/1RZeQNEpsMzQJ9oxKvZjsYim5NGHX92tI/view?usp=sharing)
+
+---
+ 
 - 🛠️ **GitHub**: https://github.com/withintheliving/refracto
 
 ---
